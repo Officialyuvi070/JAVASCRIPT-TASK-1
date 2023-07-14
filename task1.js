@@ -45,27 +45,27 @@ let y = 16;
 
 // Addition assignment operator (+=)
 x += y;
-console.log("x after addition: " + x); // Output: 15
+console.log("x after addition: " + x);
 
 // Subtraction assignment operator (-=)
 x -= 3;
-console.log("x after subtraction: " + x); // Output: 12
+console.log("x after subtraction: " + x);
 
 // Multiplication assignment operator (*=)
 x *= 2;
-console.log("x after multiplication: " + x); // Output: 24
+console.log("x after multiplication: " + x);
 
 // Division assignment operator (/=)
 x /= 4;
-console.log("x after division: " + x); // Output: 6
+console.log("x after division: " + x);
 
 // Modulus assignment operator (%=)
 x %= 5;
-console.log("x after modulus: " + x); // Output: 1
+console.log("x after modulus: " + x);
 
 // Exponentiation assignment operator (**=)
 x **= 3;
-console.log("x after exponentiation: " + x); // Output: 1
+console.log("x after exponentiation: " + x);
 //----------------------------------------------------------------------------------------------------------------------------
 // 3. Comparison Operator
 
